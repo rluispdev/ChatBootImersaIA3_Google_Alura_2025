@@ -1,3 +1,6 @@
+
+![Template rluipdev](rluispdev.png)
+
 # ChatBot-ImersaoIAGemini3Alura2025
 
 Este projeto demonstra como criar um chatbot simples usando a API Google Gemini em um ambiente Google Colab. Foi desenvolvido como parte do evento "Imersão IA Gemini 3" da Alura.
