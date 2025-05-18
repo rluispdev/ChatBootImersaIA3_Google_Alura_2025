@@ -1,5 +1,5 @@
 
-![Template rluipdev](rluispdev.png)
+![Template rluipdev](rluispdev(1).png)
 
 # ChatBot-ImersaoIAGemini3Alura2025
 
