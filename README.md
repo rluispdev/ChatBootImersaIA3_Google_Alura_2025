@@ -65,8 +65,7 @@ Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICE
       width=80 
       src="https://avatars.githubusercontent.com/u/128305083?s=96&v=4"
     />
-    <p>&nbsp&nbsp&nbsprluispdev<br>
-    &nbsp&nbsp&nbsp
+    <p>
      <a href="https://rluispdev.github.io/portifolio/" target="_blank"> Portifólio</a>
 &nbsp;|&nbsp;
     <a href="https://github.com/rluispdev" target="_blank">
